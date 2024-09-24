@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### Languages
+![0O000's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0O000&layout=compact)
+
+### GitHub stats
+![0O000's GitHub stats](https://github-readme-stats.vercel.app/api?username=0O000&show_icons=true&theme=radical)
 -->
